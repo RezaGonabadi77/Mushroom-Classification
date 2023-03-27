@@ -1,4 +1,4 @@
-#Mushroom Classification Using Neural Network (4 Layers)
+# Mushroom-Classification-Using-Neural-Network
 
 Mushroom Classification Using Neural Network (4 Layers)
 This project uses a neural network with 4 layers to classify mushrooms into edible or poisonous categories based on their physical characteristics.
